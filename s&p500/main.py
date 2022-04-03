@@ -19,7 +19,7 @@ def print_menu():
     print("[8]-----Compare my companies")
     print("[9]-----Show my list of companies")
     print("[0]-----Quit searching\n")
-    print("halaballa" + "erewrwer")
+    print("              ")
 
 def print_cmp(list_of_cmp):
     for cmp in list_of_cmp:
