@@ -21,7 +21,6 @@ def print_menu():
     print("[0]-----Quit searching\n")
 
 
-
 def print_cmp(list_of_cmp):
     for cmp in list_of_cmp:
         print("-------------------------------------------------")
